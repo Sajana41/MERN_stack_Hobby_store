@@ -136,7 +136,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 For any queries, please contact **Sajana**:
 - GitHub: [Sajana41](https://github.com/Sajana41)
-- Email: [sajana@example.com](mailto:sajana@example.com)
+- Email: [sajanaakilendra41@gmail.com](mailto:sajanaakilendra41@gmail.com)
 
 ---
 
